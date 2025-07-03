@@ -6,11 +6,11 @@ const App=()=>
     
     </div>
     <div className="col-span-4">
-    <div className="container h-133">
+    <div className="container h-150">
 
     </div>
     <div className="text-white bg-zinc-800 w-1/2 m-auto border rounded-4xl border-zinc-700 flex ">
-    <input className="w-full p-4 outline-none  h-full p-6" type="text" placeholder="Ask Something "/>
+    <input className="w-full p-4 outline-none  h-auto p-6" type="text" placeholder="Ask Something "/>
     <button className="p-6 bg-cyan-800 rounded-4xl w-18 h-auto m-auto">Go</button>
     </div>
     </div>
