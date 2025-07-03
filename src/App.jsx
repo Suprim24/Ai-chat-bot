@@ -3,7 +3,7 @@ const App=()=>
   return(
   <div className="grid grid-cols-5 h-screen text-center">
     <div className="col-span-1 bg-zinc-700">
-
+    
     </div>
     <div className="col-span-4">
     <div className="container h-133">
